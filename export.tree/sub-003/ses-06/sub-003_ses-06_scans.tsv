@@ -1,7 +1,0 @@
-filename	acq_time	operator	randstr
-func/sub-003_ses-06_task-FullFovAttentionTask_run-002_bold.nii.gz	1863-01-15T18:53:18	NIMH	@~uGv{K8
-func/sub-003_ses-06_task-FullFovAttentionTask_run-003_bold.nii.gz	1863-01-15T18:58:31	NIMH	"(""dgpl-b"
-func/sub-003_ses-06_task-FullFovAttentionTask_run-009_bold.nii.gz	1863-01-15T19:43:51	NIMH	H{1V}M8Y
-func/sub-003_ses-06_task-FullFovAttentionTask_run-010_bold.nii.gz	1863-01-15T19:47:47	NIMH	At\5Wh~S
-anat/sub-003_ses-06_acq-MPRAGE_run-001_T1w.nii.gz	1863-01-15T19:59:30	NIMH	o*a:Z%+D
-anat/sub-003_ses-06_run-001_PD.nii.gz	1863-01-15T20:03:39	NIMH	WFQ#o?;8
